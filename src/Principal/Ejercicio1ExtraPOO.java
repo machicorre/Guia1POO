@@ -27,6 +27,8 @@ public class Ejercicio1ExtraPOO {
        
      Song = new Cancion( "this love ", "Maroon5" );
         System.out.println(Song.toString());
+        
+        System.out.println("fin");
        
     }
     
